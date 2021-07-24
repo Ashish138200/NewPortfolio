@@ -499,6 +499,12 @@ img{
 .skills__django {
     width: 40%;
 }
+.skills__node{
+    width: 40%;
+}
+.skills__express{
+    width: 40%;
+}
 .skills__python{
     width: 60%;
 }
@@ -523,7 +529,9 @@ img{
 .skills__networking{
     width: 40%;
 }
-
+.skills__mongodb{
+    width:40%;
+}
 .skills__close .skills__list{
     height: 0;
     overflow: hidden;
@@ -750,6 +758,7 @@ img{
 }
 .project__image{
     width: 232px;
+    height:232px;
     justify-self: center;
 }
 
