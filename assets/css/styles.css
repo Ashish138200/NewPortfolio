@@ -497,34 +497,49 @@ img{
     width: 40%;
 }
 .skills__django {
-    width: 40%;
+    width: 60%;
 }
 .skills__node{
-    width: 40%;
+    width: 80%;
 }
 .skills__express{
     width: 40%;
+}
+.skills__angular{
+    width:60%;
+}
+.skills__spring{
+    width:60%
 }
 .skills__python{
     width: 60%;
 }
 .skills__java{
-    width: 40%;
+    width: 80%;
 }
 .skills__aws{
-    width: 30%;
+    width: 50%;
 }
 .skills__docker{
-    width: 20%;
+    width: 40%;
+}
+.skills__terraform{
+    width:40%;
+}
+.skills__ansible{
+    width:40%;
 }
 .skills__mysql{
-    width: 40%;
+    width: 80%;
 }
 .skills__github{
     width: 80%;
 }
-.skills__devops{
-    width: 30%;
+.skills__maven{
+    width: 50%;
+}
+.skills__jenkins{
+    width:40%;
 }
 .skills__networking{
     width: 40%;
